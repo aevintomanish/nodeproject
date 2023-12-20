@@ -1,0 +1,23 @@
+const employeeData = [
+    { ID: 1, FirstName: 'John', LastName: 'Doe', Designation: 'Software Engineer' },
+    { ID: 2, FirstName: 'Jane', LastName: 'Smith', Designation: 'Developer' },
+    { ID: 3, FirstName: 'Alice', LastName: 'Johnson', Designation: 'Data Analyst' },
+    { ID: 4, FirstName: 'Bob', LastName: 'Williams', Designation: 'Network Administrator' },
+    { ID: 5, FirstName: 'Eva', LastName: 'Brown', Designation: 'UX Designer' },
+    { ID: 6, FirstName: 'Charlie', LastName: 'Miller', Designation: 'Systems Analyst' },
+    { ID: 7, FirstName: 'Olivia', LastName: 'Davis', Designation: 'Frontend Developer' },
+    { ID: 8, FirstName: 'Daniel', LastName: 'Clark', Designation: 'Database Administrator' },
+    { ID: 9, FirstName: 'Sophia', LastName: 'Garcia', Designation: 'Mobile App Developer' },
+    { ID: 10, FirstName: 'Jackson', LastName: 'Anderson', Designation: 'UI Designer' },
+    { ID: 11, FirstName: 'Ava', LastName: 'Martinez', Designation: 'Software Engineer' },
+    { ID: 12, FirstName: 'Liam', LastName: 'Taylor', Designation: 'Network Engineer' },
+    { ID: 13, FirstName: 'Emma', LastName: 'Brown', Designation: 'Full Stack Developer' },
+    { ID: 14, FirstName: 'Noah', LastName: 'Moore', Designation: 'DevOps Engineer' },
+    { ID: 15, FirstName: 'Mia', LastName: 'Robinson', Designation: 'Business Analyst' },
+    { ID: 16, FirstName: 'William', LastName: 'White', Designation: 'Security Analyst' },
+    { ID: 17, FirstName: 'Sofia', LastName: 'Lee', Designation: 'UI/UX Designer' },
+    { ID: 18, FirstName: 'James', LastName: 'Wang', Designation: 'Backend Developer' },
+    { ID: 19, FirstName: 'Grace', LastName: 'Nguyen', Designation: 'Quality Assurance Engineer' },
+    { ID: 20, FirstName: 'Benjamin', LastName: 'Kim', Designation: 'Software Architect' },
+  ];
+  module.exports = employeeData;
